@@ -1,0 +1,28 @@
+# Core Streamlit framework
+
+streamlit>=1.28.0
+
+# Data manipulation and analysis
+
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Interactive plotting and visualization
+
+plotly>=5.15.0
+
+# Financial data fetching
+
+yfinance>=0.2.18
+
+# HTTP requests (used by yfinance)
+
+requests>=2.31.0
+
+# Date and time handling (built-in, but ensuring compatibility)
+
+python-dateutil>=2.8.0
+
+# Optional: For better performance and caching
+
+streamlit-autorefresh>=0.0.6
